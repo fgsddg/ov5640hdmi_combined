@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spirit:design xmlns:spirit="http://www.spiritconsortium.org/XMLSchema/SPIRIT/1685-2009">
+    <spirit:vendor>eHiway</spirit:vendor>
+    <spirit:componentInstances>
+        <spirit:componentInstance>
+            <spirit:instanceName>SQRT</spirit:instanceName>
+            <spirit:name>SQRT</spirit:name>
+            <spirit:type></spirit:type>
+            <spirit:fileset>
+                <spirit:file>D:/elinx_prj/ov5640hdmi/ov5640hdmi.srcs/sources_1/ip/SQRT/SQRT.v</spirit:file>
+            </spirit:fileset>
+            <spirit:configurableElementValues>
+                <spirit:configurableElementValue spirit:referenceId="SeriesName">eHiChip6</spirit:configurableElementValue>
+                <spirit:configurableElementValue spirit:referenceId="IPName">SQRT</spirit:configurableElementValue>
+                <spirit:configurableElementValue spirit:referenceId="version">26716</spirit:configurableElementValue>
+                <spirit:configurableElementValue spirit:referenceId="Width">21</spirit:configurableElementValue>
+                <spirit:configurableElementValue spirit:referenceId="Pipeline">No</spirit:configurableElementValue>
+                <spirit:configurableElementValue spirit:referenceId="ClkCycle">1</spirit:configurableElementValue>
+                <spirit:configurableElementValue spirit:referenceId="Aclr">OFF</spirit:configurableElementValue>
+                <spirit:configurableElementValue spirit:referenceId="Clken">OFF</spirit:configurableElementValue>
+            </spirit:configurableElementValues>
+        </spirit:componentInstance>
+    </spirit:componentInstances>
+</spirit:design>

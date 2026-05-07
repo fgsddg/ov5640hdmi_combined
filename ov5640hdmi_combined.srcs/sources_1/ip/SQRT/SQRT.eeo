@@ -1,0 +1,12 @@
+// The following must be inserted into your Verilog file for this
+// core to be instantiated. Change the instance name and port connections
+// (in parentheses) to your own signal names.
+
+//----------- Begin Cut here for INSTANTIATION Template ---//INST_TAG
+SQRT your_instance_name (
+		.radical(radical),            //input  [20:0]  radical
+		.q(q),                  //output  [10:0]  q
+		.remainder(remainder)           //output  [11:0]  remainder
+);
+
+// INST_TAG_END ------ End INSTANTIATION Template ---------
